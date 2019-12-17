@@ -1,0 +1,6 @@
+__pycache__/
+.git
+.vscode
+.mypy_cache
+*.pyc
+db.sqlite3
