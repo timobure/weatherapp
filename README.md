@@ -48,7 +48,7 @@ To get a local copy up and running follow these simple steps.
  
 1. Clone the repo
 ```sh
-git clone https://timobure@bitbucket.org/timobure/weatherapp.git
+git clone https://github.com/timobure/weatherapp.git
 ```
 2. Make a virtual environment
 ```sh
@@ -79,4 +79,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Timon Obure - timobure@gmail.com
 
-Project Link: https://timobure@bitbucket.org/timobure/weatherapp.git
+Project Link: https://github.com/timobure/weatherapp.git
